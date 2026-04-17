@@ -28,6 +28,7 @@ output/
 
 # Model artifacts
 *.pt
+!best.pt
 *.pth
 /runs/
 
